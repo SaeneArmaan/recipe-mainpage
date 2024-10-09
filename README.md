@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Solution](https://github.com/SaeneArmaan/recipe-mainpage)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://recipe-mainpage-saenearmaan.netlify.app)
 
 ### Built with
 
@@ -29,7 +29,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-"I have learned how to customize unordered (<ul>) and ordered (<ol>) lists, including changing list styles such as disc, circle, square, and decimal. Additionally, I now know how to modify marker styles, control list positioning, and apply custom styles to enhance the visual presentation of lists."
+I have learned how to customize unordered and ordered lists, including changing list styles such as disc, circle, square, and decimal. Additionally, I now know how to modify marker styles, control list positioning, and apply custom styles to enhance the visual presentation of lists.
 
 ## Author
 
